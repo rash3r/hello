@@ -1,1 +1,67 @@
-hello 2 chuj
+commit 0892c0557ee8d23e7eab681aa15d10e7c0aaf174
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 14:59:31 2015 +0100
+
+    uj added
+
+commit 57cbc2b1a4b69b775a5818a8697886d0263493b0
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 13:36:51 2015 +0100
+
+    Revert "Revert "Revert "Revert "some files added""""
+    
+    This reverts commit b31422adb124084c4fbcff09790a7480d83b9155.
+
+commit b31422adb124084c4fbcff09790a7480d83b9155
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 13:36:37 2015 +0100
+
+    Revert "Revert "Revert "some files added"""
+    
+    This reverts commit 2622b9ef33ba6e486ed6f32d098a5508ba380a4e.
+
+commit 2622b9ef33ba6e486ed6f32d098a5508ba380a4e
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 13:33:17 2015 +0100
+
+    Revert "Revert "some files added""
+    
+    This reverts commit 19eef0fe309e3e1328b1bfb5a647c52dbc0ffeb7.
+
+commit 19eef0fe309e3e1328b1bfb5a647c52dbc0ffeb7
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 13:31:32 2015 +0100
+
+    Revert "some files added"
+    
+    This reverts commit f035f3462c3b0513c354fc341403014b0b8bd19c.
+
+commit f035f3462c3b0513c354fc341403014b0b8bd19c
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 12:02:54 2015 +0100
+
+    some files added
+
+commit 395e022edfdef1983b140796570276f8c98d9f7b
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 11:49:41 2015 +0100
+
+    hello 3 add
+
+commit ede9ebc67972e3f9fcfd07114f62a01edc1ab13f
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 11:35:31 2015 +0100
+
+    hello 2 added
+
+commit 82a6baab70b452890249528398860146838fe79f
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 11:25:12 2015 +0100
+
+    capition added
+
+commit 72746238889f7cd1ef82b7326cc56893ccdf55c0
+Author: Emil Jarosiewicz <ejarosiewicz@gmail.com>
+Date:   Tue Jan 27 11:05:58 2015 +0100
+
+    hello.txt added
